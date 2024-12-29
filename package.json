@@ -1,0 +1,21 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "description": "- ORM stands for Object-Relational Mapping  - A programming technique used in software development to convert data between incompatible type systems in object-oriented programming languages.  - This technique creates a 'virtual object database' that can be used from within the programming language. - ORMs are used to abstract the complexities of the underlying database into simpler, more easily managed objects within the code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "prisma": "^6.1.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.1.0"
+  }
+}
